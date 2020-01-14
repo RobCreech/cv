@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f4eec7;
+}
+
+h1 {
+  color: #0f4c75;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin: 25px auto 0 auto;
+}
+
+h2 {
+  color: #af460f;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+.fsdeveloper {
+  font-weight: normal;
+  margin: 0;
+}
+
+h3 {
+  color: #2c7873;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #40514E;
+}
+
+.bottom-container a {
+  margin: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.bottom-container a:link {
+  color: #35495e;
+}
+
+.bottom-container a:hover {
+  color: #FFFFFF;
+}
+
+.bottom-container a:visited {
+  color: #35495e;
+}
+
+.bottom-container p {
+  color: #FFFFFF;
+  font-size: 1em;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 30px auto 0 auto;
+  padding-top: 30px;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%
+}
+
+.front-end-img {
+  float: left;
+  margin-right: 20px;
+  width: 25%;
+}
+
+.back-end-img {
+  float: right;
+  margin-left: 10px;
+  width: 25%;
+}
+
+.myphoto {
+  border-radius: 100%;
+  width: 300px;
+  height: auto;
+}
+
+.btn {
+  background-color: #45b8c7;
+  border-radius: 28px;
+  border: 1px solid #45b8c7;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 18px;
+  padding: 19px 58px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #2f6627;
+}
+
+.btn:hover {
+  background-color: #2abdbd;
+}
